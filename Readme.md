@@ -11,7 +11,7 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 *Goal: Build static, responsive websites.*
 
 - [x] **Day 1: Version Control** (Git, GitHub, Repo Management)
-- [ ] **HTML5 Mastery:** Semantic tags, Forms, SEO basics, Accessibility (a11y).
+- [x] **HTML5 Mastery:** Semantic tags, Forms, SEO basics, Accessibility (a11y).
 - [ ] **CSS3 Fundamentals:** Box Model, Selectors, Specificity, Colors/Fonts.
 - [ ] **Modern Layouts:** Flexbox (Deep Dive) & CSS Grid.
 - [ ] **Responsive Design:** Media Queries, Mobile-first approach.
@@ -80,7 +80,7 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 ## 📈 Daily Log (Example)
 
-**[2026-01-01] Day 1:** - Learned Git init, add, commit, push.
-- Created this Roadmap repository.
+**[2026-01-01] Day 1:** - Learned Git init, add, commit, push and some of HTML5 from scratch.
+- Created this Roadmap repository and also add some of work files with HTML.
 
 ---
