@@ -71,10 +71,10 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 | Project Name | Tech Stack | Status | Repository | Live Demo |
 | :--- | :--- | :--- | :--- | :--- |
-| **Portfolio** | HTML/CSS | ⏳ Pending | [Link](#) | [Link](#) |
-| **Weather App** | React/API | ⏳ Pending | [Link](#) | [Link](#) |
-| **Task API** | Node/Express | ⏳ Pending | [Link](#) | [Link](#) |
-| **Blog Platform** | MERN Stack | ⏳ Pending | [Link](#) | [Link](#) |
+| **Portfolio** | HTML/CSS | ⏳ Pending |  |  |
+| **Weather App** | React/API | ⏳ Pending |  |  |
+| **Task API** | Node/Express | ⏳ Pending |  |  |
+| **Blog Platform** | MERN Stack | ⏳ Pending |  |  |
 
 ---
 
@@ -84,8 +84,3 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 - Created this Roadmap repository.
 
 ---
-
-## 🤝 Connect
-If you have feedback or want to collaborate:
-- **LinkedIn:** [Insert Link]
-- **Twitter:** [Insert Link]
