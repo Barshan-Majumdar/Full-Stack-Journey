@@ -17,7 +17,7 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 - [ ] **Responsive Design:** Media Queries, Mobile-first approach.
 - [ ] **Projects:**
   - [ ] Build a Personal Portfolio.
-  - [ ] Build a Product Landing Page.
+  - [ ] Build a Food Delivery Website.
 
 ## ⚛️ Phase 2: JavaScript & React (Weeks 5-10)
 *Goal: Make websites interactive and build Single Page Applications (SPAs).*
@@ -80,7 +80,8 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 ## 📈 Daily Log (Example)
 
-**[2026-01-01] Day 1:** - Learned Git init, add, commit, push and some of HTML5 from scratch.
+**[01-01-2026] Day 1:** - Learned Git init, add, commit, push and some of HTML5 from scratch.
 - Created this Roadmap repository and also add some of work files with HTML.
+**[02-01-2026] Day 2:** - Learned SEO concept and real life application of it.
 
 ---
