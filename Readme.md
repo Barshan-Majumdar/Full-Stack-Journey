@@ -78,10 +78,11 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 ---
 
-## 📈 Daily Log (Example)
+## 📈 Daily Log
 
 **[01-01-2026] Day 1:** - Learned Git init, add, commit, push and some of HTML5 from scratch.
 - Created this Roadmap repository and also add some of work files with HTML.
+
 **[02-01-2026] Day 2:** - Learned SEO concept and real life application of it.
 
 ---
