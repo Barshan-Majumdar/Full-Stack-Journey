@@ -70,11 +70,11 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 ## 🏆 Major Projects Checklist
 
 | Project Name | Tech Stack | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **Portfolio** | HTML/CSS | ✅ Done |  
-| **Weather App** | React/API | ⏳ Pending |  
-| **Task API** | Node/Express | ⏳ Pending |  
-| **Blog Platform** | MERN Stack | ⏳ Pending |  
+| :--- | :--- | :---: |
+| **Portfolio** | HTML/CSS | ✅ Done |
+| **Weather App** | React/API | ⏳ Pending |
+| **Task API** | Node/Express | ⏳ Pending |
+| **Blog Platform** | MERN Stack | ⏳ Pending |
 
 ---
 
