@@ -12,12 +12,12 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 - [x] **Day 1: Version Control** (Git, GitHub, Repo Management)
 - [x] **HTML5 Mastery:** Semantic tags, Forms, SEO basics, Accessibility (a11y).
-- [ ] **CSS3 Fundamentals:** Box Model, Selectors, Specificity, Colors/Fonts.
-- [ ] **Modern Layouts:** Flexbox (Deep Dive) & CSS Grid.
+- [x] **CSS3 Fundamentals:** Box Model, Selectors, Specificity, Colors/Fonts.
+- [x] **Modern Layouts:** Flexbox (Deep Dive) & CSS Grid.
 - [ ] **Responsive Design:** Media Queries, Mobile-first approach.
-- [ ] **Projects:**
-  - [ ] Build a Personal Portfolio.
-  - [ ] Build a Food Delivery Website.
+- [x] **Projects:**
+  - [x] Build a Personal Portfolio.
+  - [x] Build a Food Delivery Website.
 
 ## ⚛️ Phase 2: JavaScript & React (Weeks 5-10)
 *Goal: Make websites interactive and build Single Page Applications (SPAs).*
@@ -69,12 +69,12 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 ## 🏆 Major Projects Checklist
 
-| Project Name | Tech Stack | Status | Repository | Live Demo |
+| Project Name | Tech Stack | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **Portfolio** | HTML/CSS | ⏳ Pending |  |  |
-| **Weather App** | React/API | ⏳ Pending |  |  |
-| **Task API** | Node/Express | ⏳ Pending |  |  |
-| **Blog Platform** | MERN Stack | ⏳ Pending |  |  |
+| **Portfolio** | HTML/CSS | ✅ Done |  
+| **Weather App** | React/API | ⏳ Pending |  
+| **Task API** | Node/Express | ⏳ Pending |  
+| **Blog Platform** | MERN Stack | ⏳ Pending |  
 
 ---
 
@@ -84,5 +84,8 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 - Created this Roadmap repository and also add some of work files with HTML.
 
 **[02-01-2026] Day 2:** - Learned SEO concept and real life application of it.
+
+
+**[04-01-2026] Day 3:** - Made 2 projects, 1st Zomato Clone and 2nd My Portfolio.
 
 ---
