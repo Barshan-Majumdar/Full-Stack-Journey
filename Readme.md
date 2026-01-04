@@ -22,7 +22,7 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 ## ⚛️ Phase 2: JavaScript & React (Weeks 5-10)
 *Goal: Make websites interactive and build Single Page Applications (SPAs).*
 
-- [ ] **JavaScript Basics:** Variables, Data Types, Operators, Loops.
+- [x] **JavaScript Basics:** Variables, Data Types, Operators, Loops.
 - [ ] **DOM Manipulation:** Selecting elements, Event Listeners.
 - [ ] **Advanced JS:** ES6+, Arrow Functions, Destructuring, Spread Operator.
 - [ ] **Async JS:** Promises, Async/Await, Fetch API, JSON.
@@ -86,6 +86,6 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 **[02-01-2026] Day 2:** - Learned SEO concept and real life application of it.
 
 
-**[04-01-2026] Day 3:** - Made 2 projects, 1st Zomato Clone and 2nd My Portfolio.
+**[04-01-2026] Day 3:** - Made 2 projects, 1st Zomato Clone and 2nd My Portfolio and basics of JavaScript (Variables, Data Types, Operators, Loops.)
 
 ---
