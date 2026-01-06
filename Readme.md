@@ -88,4 +88,6 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 **[04-01-2026] Day 3:** - Made 2 projects, 1st Zomato Clone and 2nd My Portfolio and basics of JavaScript (Variables, Data Types, Operators, Loops.)
 
+
+**[06-01-2026] Day 4:** - Learned some concepts of javascipt such as Hoisting, string methods and spread & rest methds in javascript.
 ---
