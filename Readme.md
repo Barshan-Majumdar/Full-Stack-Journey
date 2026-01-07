@@ -90,4 +90,7 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 
 **[06-01-2026] Day 4:** - Learned some concepts of javascipt such as Hoisting, string methods and spread & rest methds in javascript.
+
+
+**[07-01-2026] Day 5:** - Learned about Arrays in JS and their functionalities.
 ---
