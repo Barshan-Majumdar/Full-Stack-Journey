@@ -93,4 +93,7 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 
 **[07-01-2026] Day 5:** - Learned about Arrays in JS and their functionalities.
+
+
+**[08-01-2026] Day 6:** - Learned about Array methods in JS and their uses.
 ---
