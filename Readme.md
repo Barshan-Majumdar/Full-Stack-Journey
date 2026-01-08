@@ -24,7 +24,7 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 - [x] **JavaScript Basics:** Variables, Data Types, Operators, Loops.
 - [ ] **DOM Manipulation:** Selecting elements, Event Listeners.
-- [ ] **Advanced JS:** ES6+, Arrow Functions, Destructuring, Spread Operator.
+- [x] **Advanced JS:** ES6+, Arrow Functions, Destructuring, Spread Operator.
 - [ ] **Async JS:** Promises, Async/Await, Fetch API, JSON.
 - [ ] **React Basics:** Components, JSX, Props.
 - [ ] **React Hooks:** `useState`, `useEffect`, `useRef`.
