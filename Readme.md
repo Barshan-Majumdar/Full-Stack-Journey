@@ -96,4 +96,10 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 
 **[08-01-2026] Day 6:** - Learned about Array methods in JS and their uses.
+
+
+**[09-01-2026] Day 7:** - Learned more array metohds and manupulation of them.
+
+
+**[10-01-2026] Day 8:** - Learned about object and classes in javaScript.
 ---
