@@ -102,4 +102,8 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 
 **[10-01-2026] Day 8:** - Learned about object and classes in javaScript.
+
+
+**[11-01-2026] Day 9:** - Learned about inheritance, call, apply, bind methods and prototypes in javascript.
+
 ---
