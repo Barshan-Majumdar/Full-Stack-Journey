@@ -1,74 +1,92 @@
 /* General Reset */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #282727;
+    background-color: #282727; /* Dark Background */
     display: flex;
-    justify-content: center; /* Centers horizontally */
-    align-items: center;     /* Centers vertically */
-    height: 100vh;           /* Full screen height */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     margin: 0;
     flex-direction: column;
 }
 
 /* The Main Card */
 .container {
-    background: white;
+    background: #282727;       /* CHANGED: Matches body background */
     width: 350px;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid white;   /* CHANGED: White border added */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    color: white;              /* CHANGED: Text color white for visibility */
 }
+
 .tasks {
-    background: white;
-    width: 350px;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+display: flex;
+align-items: center;
+justify-content: space-between;
+background: #282727;
+width: 350px;
+padding: 20px;
+border-radius: 10px;
+border: 2px solid white;
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+color: white;
+margin-top: 20px;
+}
+.delete-btn {
+background: transparent;
+border: none;
+color: white;
+cursor: pointer;
+font-size: 1rem;
+transition: 0.5s;
 }
 .header {
-    color:white;
+    color: white;
     width: 350px;
     padding: 20px;
-    border-radius: 0px;
     text-align: center;
     font: bold 24px 'Times New Roman';
-
 }
 
 h2 {
     text-align: center;
-    color: #333;
+    color: white;              /* CHANGED: White text to see on dark bg */
 }
 
 /* Input and Button Area */
 .input-group {
+    color: #ddd;
     display: flex;
     gap: 10px;
     margin-bottom: 20px;
 }
 
 input {
-    flex-grow: 1; 
+    flex-grow: 1;
     padding: 10px;
-    border: 1px solid #ddd;
+    background-color: #282727; /* CHANGED: Dark background */
+    border: 1px solid white;   /* CHANGED: White border */
+    color: white;              /* CHANGED: White text when typing */
     border-radius: 5px;
     outline: none;
 }
 
-button  {
+button {
     padding: 10px 15px;
-    background-color: white; 
-    color: #ddd solid;
-    border: 1px #ddd  solid;
+    background-color: #282727; /* CHANGED: Transparent/Dark background */
+    color: white;              /* CHANGED: White text */
+    border: 1px solid white;   /* CHANGED: White border */
     border-radius: 5px;
     cursor: pointer;
     font-weight: bold;
-    
+    transition: 0.5s;
 }
 
 button:hover {
-    background-color: #28a745;
-    color: white;
+    background-color: white;   /* Invert on hover */
+    color: #282727;
 }
 
 /* The List Items */
@@ -78,8 +96,9 @@ ul {
 }
 
 li {
-    background: #fff;
-    border-bottom: 1px solid #eee;
+    background: #282727;       /* CHANGED: Dark background */
+    color: white;              /* CHANGED: White text */
+    border-bottom: 1px solid white; /* CHANGED: White separator */
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -87,7 +106,7 @@ li {
 }
 
 li:hover {
-    background-color: #fafafa;
+    background-color: #333;    /* Slightly lighter dark on hover */
 }
 
 /* Style for completed tasks */
