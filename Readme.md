@@ -23,7 +23,8 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 *Goal: Make websites interactive and build Single Page Applications (SPAs).*
 
 - [x] **JavaScript Basics:** Variables, Data Types, Operators, Loops.
-- [ ] **DOM Manipulation:** Selecting elements, Event Listeners.
+- [x] **DOM Manipulation:** Selecting elements, Event Listeners.
+  - [x] Todo List project.
 - [x] **Advanced JS:** ES6+, Arrow Functions, Destructuring, Spread Operator.
 - [ ] **Async JS:** Promises, Async/Await, Fetch API, JSON.
 - [ ] **React Basics:** Components, JSX, Props.
