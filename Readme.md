@@ -106,4 +106,7 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 **[11-01-2026] Day 9:** - Learned about inheritance, call, apply, bind methods and prototypes in javascript.
 
+
+**[12-01-2026] Day 10:** - Learned and applied DOM manipulation and using this created a to do list.
+
 ---
