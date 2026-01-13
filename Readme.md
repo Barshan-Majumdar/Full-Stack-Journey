@@ -27,6 +27,7 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
   - [x] Todo List project.
 - [x] **Advanced JS:** ES6+, Arrow Functions, Destructuring, Spread Operator.
 - [ ] **Async JS:** Promises, Async/Await, Fetch API, JSON.
+  - [x] promises.
 - [ ] **React Basics:** Components, JSX, Props.
 - [ ] **React Hooks:** `useState`, `useEffect`, `useRef`.
 - [ ] **Routing:** React Router DOM (Navigation without refreshing).
@@ -109,5 +110,9 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 
 **[12-01-2026] Day 10:** - Learned and applied DOM manipulation and using this created a to do list.
+
+
+**[13-01-2026] Day 11:** - Learned asyncronous process and promises in javascript.
+
 
 ---
