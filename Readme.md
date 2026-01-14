@@ -115,4 +115,7 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 **[13-01-2026] Day 11:** - Learned asyncronous process, callback funcitons and promises in javascript.
 
 
+**[14-01-2026] Day 12:** - Nothing planned today, just chiling.
+
+
 ---
