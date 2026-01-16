@@ -6,4 +6,4 @@ Promise.all([firstObject, secondObject, thirdObject]).then(responese => {
     for (const response of responese){
         console.log(response);
     }
-})
+}).catch(err => console.log("Error:", err));
