@@ -120,4 +120,7 @@ Welcome to my daily learning log. This repository tracks my entire journey from 
 
 **[16-01-2026] Day 13:** - Learned about async function and await thing in js and some kinds promises and their workig functionality.
 
+
+**[17-01-2026] Day 14:** - Learned about BOM, Local and Session Storage system and worked on a new project Student Registration System.
+
 ---
