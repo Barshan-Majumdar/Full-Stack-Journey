@@ -70,6 +70,7 @@ button:hover {
 
 /* Table container */
 #studentTable {
+    display: none;
     width: 100%;
     max-width: 900px;
     margin: 20px auto;

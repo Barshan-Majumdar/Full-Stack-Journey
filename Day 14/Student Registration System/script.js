@@ -1,3 +1,5 @@
+const table = document.getElementById("studentTable");
+
 // const mainTag = document.querySelector("main");
 const tableBody = document.querySelector("tbody");
 const nameInput = document.querySelector(".studentName");
@@ -7,10 +9,10 @@ const contactInput = document.querySelector(".contactNo");
 const form = document.querySelector("form");
 form.addEventListener("submit", (event) => {
     event.preventDefault();
-    console.log("Name : "+ nameInput.value);
-    console.log("Class : "+ classInput.value);
-    console.log("Address : "+ addressInput.value);
-    console.log("Contact Number : "+ contactInput.value);
+    console.log("Name : " + nameInput.value);
+    console.log("Class : " + classInput.value);
+    console.log("Address : " + addressInput.value);
+    console.log("Contact Number : " + contactInput.value);
     // const studentCard = document.createElement("div");
     // const sName = document.createElement("p");
     // sName.innerHTML = nameInput.value;
@@ -39,12 +41,15 @@ form.addEventListener("submit", (event) => {
     row.appendChild(tClass);
     row.appendChild(tAddress);
     row.appendChild(tContact);
-    row.appendChild(deleteButton);
+    // row.appendChild(deleteButton);
 
     tableBody.appendChild(row);
-    
+    if (tableBody.children.length > 0) {
+        table.style.display = "table";
+    }
+
     // mainTag.appendChild(studentCard);
-    
+    form.reset();
 });
 
 
