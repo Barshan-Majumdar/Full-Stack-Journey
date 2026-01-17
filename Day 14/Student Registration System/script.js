@@ -34,15 +34,19 @@ form.addEventListener("submit", (event) => {
     const tContact = document.createElement("td");
     tContact.textContent = contactInput.value;
 
+
     row.appendChild(tName);
     row.appendChild(tClass);
     row.appendChild(tAddress);
     row.appendChild(tContact);
+    row.appendChild(deleteButton);
 
     tableBody.appendChild(row);
     
     // mainTag.appendChild(studentCard);
     
 });
+
+
 
 
