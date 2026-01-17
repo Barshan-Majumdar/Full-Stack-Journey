@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +8,7 @@
     <link rel="stylesheet" href="styles.css">
     <script src="script.js" defer></script>
 </head>
+
 <body>
     <header>
         <div class="heading">
@@ -23,22 +25,41 @@
                 <br>
                 <div class="studentCl">
                     <label for="class">Enter Your Class:</label>
-                    <input class="studentClass" type="number" id="studentCl" name="studentClass" placeholder="Enter class here" required>
+                    <input class="studentClass" type="number" id="studentCl" name="studentClass"
+                        placeholder="Enter class here" required>
                 </div>
                 <br>
                 <div class="address">
                     <label for="address">Enter Address:</label><br>
-                    <textarea class="addressArea" name="address" id="address" placeholder="Enter your address here"></textarea>
+                    <textarea class="addressArea" name="address" id="address"
+                        placeholder="Enter your address here"></textarea>
                 </div>
                 <br>
                 <div class="contact">
                     <label for="contact">Enter Contact Number:</label>
-                    <input class="contactNo" type="tel" id="contact" name="contact" placeholder="Enter contact no. here" required>
+                    <input class="contactNo" type="tel" id="contact" name="contact" placeholder="Enter contact no. here"
+                        required>
                 </div>
                 <br>
                 <div class="button">
                     <button type="submit">Register</button>
                 </div>
+                <br>
+                <table id="studentTable" border="1">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Class</th>
+                            <th>Address</th>
+                            <th>Contact</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <!-- JS will add rows here -->
+                    </tbody>
+                </table>
+
 
             </form>
         </div>
@@ -47,4 +68,5 @@
         Made by Barshan Majumdar for learning purposes.
     </footer>
 </body>
+
 </html>
