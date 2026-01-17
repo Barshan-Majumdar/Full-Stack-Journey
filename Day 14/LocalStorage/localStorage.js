@@ -5,3 +5,7 @@ localStorage.setItem("goal", "Full Stack JavaScript");
 console.log(localStorage.length);
 console.log(localStorage.getItem("name"));
 console.log(localStorage.key(0));
+
+localStorage.hobby = "Coding";
+delete localStorage.hobby;
+localStorage.clear();
